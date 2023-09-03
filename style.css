@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+  }
+
+  .photo {
+    border: 5px solid white;
+    width: 100%;
+  }
+  .poster{
+
+    margin-top: 20px;
+    margin-left: 25%;
+    width: 50%;
+    color: white;
+    text-align: center;
+  }
+  h1 {  
+    text-transform: uppercase;
+    font-size: xx-large;
+    font-family: 'Anton', sans-serif;
+  }
+
+  p {
+    font-size: larger;
+    font-family: 'Lora', serif;
+    
+  }
